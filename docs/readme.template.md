@@ -190,6 +190,15 @@ Is your API meant to be used by yourself? Use Wildcard.
 
 ## Getting Started
 
+For a quick start choose a boilerplate:
+- [Wildcard](/examples/todo-list/) - The standard Wildcard boilerplate, showcases a simplistic to-do list implementation.
+- [Wildcard & TypeScript](/examples/typescript/) - Showcases a Wildcard usage with "cross frontend-backend" TypeScript.
+- [Next.js & Wildcard](/examples/next.js/) - Wildard supports SSR and works well with [Next.js].
+- [Goldpage & Wildcard](https://github.com/reframejs/reframe-proto#readme) - [Goldpage](https://github.com/reframejs/goldpage#readme) is our own SSR implementation.
+- [Primsa & Wildcard](/examples/primsa/) - [Prisma](https://github.com/prisma/prisma2) allows to do typed database ORM-like queries.
+
+Or add Wildcard manually:
+
 1. Install Wildcard.
 
    With Express:
@@ -825,11 +834,14 @@ wildcardServer.disableEtag = false;
 
 Material to learn more about RPC and Wildcard. Create a Pull Request to add yours.
 
-###### Blog
+###### Wildcard
 
-- [RPC as Default](/docs/blog/rpc-as-default.md#rpc-as-default)
-- [REST or GraphQL? A simple answer.](/docs/blog/rest-or-graphql.md#rest-or-graphql-a-simple-answer)
-- [What is the difference between REST and RPC?](/docs/blog/rest-rpc.md#readme)
+- [How Wildcard Works](/docs/how-wildcard-works.md#how-wildcard-works)
+  <br/>
+  Talks about the technologies Wildcard uses under the hood.
+- [SSR & Authentication](/docs/ssr-auth.md#ssr--authentication)
+  <br/>
+  How to use Wildcard with SSR and Authentication.
 
 ###### RPC
 
@@ -847,17 +859,11 @@ Material to learn more about RPC and Wildcard. Create a Pull Request to add your
   <br/>
   Compares RPC with REST/GraphQL, in depth.
 
-###### Wildcard
+###### Blog
 
-- [How Wildcard Works](/docs/how-wildcard-works.md#how-wildcard-works)
-  <br/>
-  Talks about the technologies Wildcard uses under the hood.
-- [Example - A Todo List](/examples/todo-list/#example---a-todo-list)
-  <br/>
-  Showcases a to-do list app built with RPC/Wildcard.
-- [SSR & Authentication](/docs/ssr-auth.md#ssr--authentication)
-  <br/>
-  How to use Wildcard with SSR and Authentication.
+- [RPC as Default](/docs/blog/rpc-as-default.md#rpc-as-default)
+- [REST or GraphQL? A simple answer.](/docs/blog/rest-or-graphql.md#rest-or-graphql-a-simple-answer)
+- [What is the difference between REST and RPC?](/docs/blog/rest-rpc.md#readme)
 
 !INLINE ./snippets/section-footer.md #readme --hide-source-path
 

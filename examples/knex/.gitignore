@@ -1,0 +1,17 @@
+# Installed modules
+node_modules/
+
+# Database
+*.sqlite
+
+# Parcel
+.parcel-cache/
+dist/
+
+# Npm/Yarn debug info
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Apple macOS Finder settings
+.DS_Store
