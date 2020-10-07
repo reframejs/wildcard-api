@@ -4,13 +4,20 @@ import "./endpoints.ts";
 
 const app = express();
 
+export type Context = {
+  headers: any;
+  isLoggedIn: boolean;
+};
+
 // Server our API endpoints
 app.use(
-  wildcard(async (req) => {
-    const { headers } = req;
-    const context = { headers };
-    return context;
-  })
+  wildcard(
+    async (req): Promise<Context> => {
+      const { headers } = req;
+      const context = { headers, isLoggedIn: false };
+      return context;
+    }
+  )
 );
 
 // Serve our frontend

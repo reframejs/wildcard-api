@@ -1,4 +1,12 @@
 import { server as _server } from "@wildcard-api/server";
+import { Context } from "./start-server";
+
+type EndpointsWithContext = {
+  [name: string]: (this: Context, ...args: any[]) => any;
+};
+type EndpointsWithoutContext = {
+  [name: string]: (this: void, ...args: any[]) => any;
+};
 
 interface Person {
   firstName: string;
@@ -16,9 +24,14 @@ async function getPerson(id: number): Promise<Person> {
   return persons.find((person) => person.id === id);
 }
 
-const server = {
+const server1: EndpointsWithContext = {
   getPerson,
 };
-export type Server = typeof server;
 
-Object.assign(_server, server);
+const server2 = {
+  getPerson,
+};
+
+export type Server = typeof server2;
+
+Object.assign(_server, server1);
