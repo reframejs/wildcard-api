@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/reframejs/wildcard-api/issues/56">
+  <a href="https://github.com/telefunc/telefunc/issues/56">
     <img align="center" src="https://lsos.org/labels/banner.svg">
   </a>
 </p>
@@ -201,7 +201,7 @@ TypeScript has first-class support and you can use your backend types on the fro
 Wildcard is used in production at many companies,
 every release is assailed against a heavy suit of automated tests,
 and issues are fixed promptly.
-It is financed with the [Lsos](https://github.com/reframejs/wildcard-api/issues/56).
+It is financed with the [Lsos](https://github.com/telefunc/telefunc/issues/56).
 
 &nbsp;
 
@@ -235,14 +235,14 @@ It is financed with the [Lsos](https://github.com/reframejs/wildcard-api/issues/
 
 > The seamless "drop in and use" nature of Wildcard has enabled Vibescout to accelerate the development of new features, it enables us to quickly prototype new ideas and build out internal dashboards with ease (without the unneeded verbosity of things like GraphQL). The barrier between our server and client is almost nonexistent now- it's really just a function!
 <p align="right">
-Paul Myburgh, CTO of Vibescout <a href="https://github.com/reframejs/wildcard-api/issues/22#issuecomment-566983911">(ref)</a>
+Paul Myburgh, CTO of Vibescout <a href="https://github.com/telefunc/telefunc/issues/22#issuecomment-566983911">(ref)</a>
 </p>
 
 &nbsp;
 
 > We are a web shop and decided to try Wildcard with one of our projects. We were delighted: not only made Wildcard our front-end development simpler and faster but it also allowed us to easily implement features that were previously difficult to implement with the rigid structure of REST and GraphQL. We now use it for all our new Node.js projects and we couldn't be happier. The cherry on the cake: it now supports TypeScript which, for us, makes Wildcard a no-brainer.
 <p align="right">
-Niels Litt <a href="https://github.com/reframejs/wildcard-api/issues/22#issuecomment-568246660">(ref)</a>
+Niels Litt <a href="https://github.com/telefunc/telefunc/issues/22#issuecomment-568246660">(ref)</a>
 </p>
 
 &nbsp;
@@ -461,7 +461,7 @@ That's it.
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -543,7 +543,7 @@ For SSR, read [SSR & Authentication](/docs/ssr-auth.md#ssr--authentication).
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -668,7 +668,7 @@ you can do whatever works for you.
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -767,7 +767,7 @@ import 'handli'; // npm install handli
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -859,7 +859,7 @@ TypeScript usage examples:
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -895,7 +895,7 @@ A frontend developer can then explore your Wildcard API directly in his IDE!
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -923,7 +923,7 @@ You can disable caching by using the [`disableCache` option](#disablecache).
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -953,7 +953,7 @@ If you do, then read [SSR & Authentication](/docs/ssr-auth.md#ssr--authenticatio
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -1126,7 +1126,7 @@ wildcardServer.disableCache = true;
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
@@ -1186,7 +1186,7 @@ Material to learn more about RPC and Wildcard.
 <p align="center">
 
 <sup>
-<a href="https://github.com/reframejs/wildcard-api/issues/new">Open a GitHub ticket</a>
+<a href="https://github.com/telefunc/telefunc/issues/new">Open a GitHub ticket</a>
 if you have questions or something's not clear &mdash; we enjoy talking with our users.
 </sup>
 
