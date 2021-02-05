@@ -1,12 +1,6 @@
 !OUTPUT ../readme.md
 !INLINE ./snippets/header.md --hide-source-path
 
-<p align="center">
-  <a href="https://github.com/telefunc/telefunc/issues/56">
-    <img align="center" src="https://lsos.org/labels/banner.svg">
-  </a>
-</p>
-
 <br/> &nbsp;&nbsp;&nbsp;&#8226;&nbsp;
 [What is Telefunc](#what-is-telefunc)
 <br/> &nbsp;&nbsp;&nbsp;&#8226;&nbsp;
